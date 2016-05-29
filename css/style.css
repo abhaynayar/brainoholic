@@ -1,0 +1,299 @@
+/* General */
+
+*{
+	margin:0;
+	font-family:"Open Sans Light";
+}
+
+a{
+	text-decoration:none;
+}
+
+.no-select{
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+/* General Ends */
+
+
+
+
+
+/* Index */
+
+.iqtr{
+	width:100%;
+}
+
+.p-title{
+	font-size:36px;
+	margin-bottom:1em;
+	color:#bf1238
+}
+
+.content h1{
+	color:#bf1238
+}
+
+.header{
+	background-color:#eee;
+}
+
+.icon-menu{
+	display:inline-block;
+	float:left;
+	padding:2em;
+}
+
+.member{
+	display:inline-block;
+	float:right;
+	padding:2em;
+}
+
+.content{
+	width:900px;
+	margin:0 auto;
+}
+
+.logo{
+	display:block;
+	width:100px;
+	margin:0 auto;
+}
+
+.box{
+	margin:5% 0;
+	height:300px;
+	padding:50px 0;
+	border-bottom:thin solid black;
+}
+
+.box h1{
+	margin-bottom:1em;
+}
+
+.box1{
+	text-align:center;
+}
+
+.box1 img{
+	margin-bottom:1em;
+}
+
+.box1 a{
+	background-color:#bf1238;
+	color:white;
+	padding:1em;
+	border-radius:5px;
+}
+
+.box2 img{
+	float:right;
+	margin-left:5%;
+}
+
+.box3 img{
+	float:right;
+	margin-left:5%;
+}
+
+.footer{
+	background-color:#bf1238;
+	height:130px;
+	padding:3em;
+}
+
+.footer > img{
+	vertical-align:middle;
+	margin-right:10px;
+}
+
+.credit{
+	width:230px;
+	display:inline-block;
+	color:white;
+}
+
+.social-icons{
+	float:right;
+	padding:3em;
+}
+
+.social-icons img{
+	margin-right:5px;
+}
+
+/* Index Ends */
+
+
+
+
+
+/* Training */
+
+.performance{
+	width:300px;
+	float:right;
+	background-color:#eee;
+	margin:1em;
+	text-align:center;
+	box-shadow:1px 1px 5px #444;
+	padding-bottom:1em;
+}
+
+.performance > p {
+	background-color:#444;
+	color:white;
+	padding:5px 0;
+}
+
+.performance-container{
+	height:75%;
+	float:right;
+	width:300px;
+}
+
+.iq a{
+	background-color:bf1238;
+	color:white;
+	padding:2px 5px;
+	border-radius:5px;
+	font-size:14px;
+}
+
+.iq{
+	padding:1em 0;
+}
+
+.iq p{
+	font-size:60px;
+}
+
+.position{
+	padding:1em 0;
+}
+
+.position img{
+	margin-top:1em;
+}
+
+table{
+	border:1px solid black;
+	padding:1em;
+}
+
+.stats{
+	width:200px;
+	margin:0 auto;
+	padding-bottom:30px;
+}
+
+.level{
+	width:200px;
+	height:250px;
+	background-color:#eee;
+	text-align:center;
+	padding:1em;
+	margin:1em;
+	color:#333;
+	display:inline-block;
+	border-radius:10px;
+}
+
+.level > :first-child{
+	font-size:36px;
+	margin-bottom:25px;
+}
+
+.level img{
+	margin-bottom:1em;
+}
+
+.level:hover{
+	background-color:#bf1238;
+	color:white;
+}
+
+/* Training Ends */
+
+
+
+
+
+/* Drop Down */
+
+ul.dropdown{
+	position:relative;
+}
+
+ul.dropdown li{
+	float:left;
+}
+
+ul.dropdown ul{
+	position:absolute;
+	background-color:white;
+}
+
+/* Drop Down Ends */
+
+
+
+
+
+/* Member */
+
+.member-box{
+	padding:20px;
+	margin:10em auto;
+	text-align:center;
+	background-color:#eee;
+	width:300px;
+}
+
+.member-box *{
+	margin:20px;
+}
+
+/* Member Ends */
+
+
+
+
+/* Level */
+
+.card{
+	width:1000px;
+	height:500px;
+	margin:1em auto;
+	text-align:center;
+	background-color:#333;
+	color:white;
+	padding:1em;
+	border-radius:20px;
+}
+
+.card div{
+	width:700px;
+	margin:0 auto;
+}
+
+.card div *{
+	margin-bottom:1em;
+}
+
+.card a{
+	background-color:#bf1238;
+	color:white;
+	padding:1em;
+	border-radius:5px;
+	position:relative;
+	top:25px;
+}
+
+/* Level Ends */
