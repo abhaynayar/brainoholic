@@ -1,5 +1,5 @@
 # brainoholic
-A self-help website aimed at exercise the brain.
+A self-help website aimed at exercising the brain.
 
 To view this website on your computer, you need to have a virtual server software installed (WAMP, XAMPP, etc.)
 
